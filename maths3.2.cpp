@@ -5,9 +5,9 @@ int main() {
 	setlocale(LC_ALL, "Russian");
 	int  n,x;
 	float s, a;
-	cout << "Ââåäèòå n= ";
+	cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ n= ";
 	cin >> n;
-	cout << "Ââåäèòåx= ";
+	cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥x= ";
 	cin >> x;
 	a = x / 2.;
 	s = a;
@@ -18,7 +18,7 @@ int main() {
 		}
 		cout << "s =" << s << endl;
 	}
-	else cout << " Äàííûå ñóùåñòâóþò ";
+	else cout << " Ã„Ã Ã­Ã­Ã»Ã¥ Ã±Ã³Ã¹Ã¥Ã±Ã²Ã¢Ã³Ã¾Ã² ";
 	return 0;
 
 }
