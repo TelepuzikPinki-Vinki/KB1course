@@ -3,7 +3,7 @@ using namespace std;
 int main() {
 	setlocale(LC_ALL, "Russian");
 	int  n; float s, a;
-	cout << "Ââåäèòå n= ";
+	cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ n= ";
 	cin >> n;
 	if (n > 0) {
 		for (int i = 1; i <= n; i++) {
@@ -13,7 +13,7 @@ int main() {
 		cout << "s =" << s << endl;
 
 	}
-	else cout << " Äàííûå ñóùåñòâóþò ";
+	else cout << " Ã„Ã Ã­Ã­Ã»Ã¥ Ã±Ã³Ã¹Ã¥Ã±Ã²Ã¢Ã³Ã¾Ã² ";
 	return 0;
 
 }
